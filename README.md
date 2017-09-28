@@ -3,7 +3,7 @@
 
 This replication package offers the raw data used for all the analysis carried out in the paper, as well the [Python script][python] used to compute and plot the results.
 
-For a detailed description of the computed code metrics, please refers to [this link] (https://github.com/sealuzh/user_quality/wiki/Code-Quality-Metrics)
+For a detailed description of the computed code metrics, please refers to [this link](https://github.com/sealuzh/user_quality/wiki/Code-Quality-Metrics).
 
 ## Main Contributors
 
