@@ -17,4 +17,4 @@ For a detailed description of the computed code metrics, please refers to [this 
 
 [python]: https://github.com/giograno/replication/tree/master/script_analysis
 [raw]: https://github.com/giograno/replication/tree/master/csv
-[topic]: [raw]: https://github.com/giograno/replication/tree/master/topic_distribution
+[topic]: https://github.com/giograno/replication/tree/master/topic_distribution
