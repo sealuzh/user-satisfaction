@@ -1,5 +1,4 @@
-# Combining App Rating and User Review Analysis to Measure the Relation between Code Quality and User Satisfaction
-## An Empirical Study on The Android Market
+# Combining App Rating and User Review Analysis to Estimate Code Quality and User Satisfaction
 
 This replication package offers the [raw data][raw] used for all the analysis carried out in the paper, as well the [Python scripts][python] used to compute and plot the results.
 
