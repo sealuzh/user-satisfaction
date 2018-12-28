@@ -4,8 +4,6 @@ This is the replication package for the paper:
 
 #### Does Software Quality Impact Users' Satisfaction? An Empirical Study on the Android Market
 
-We set up a GitHub repository that stores all the raw data and the code written to compute our results. The link of the repo is the [following][git]. 
-
 ### Dataset
 
 We make available all the data we used to carry out our study. In particular, we share the list of the apks, the entire set of reviews mined, the extracted sentences together with both the users and the code quality metrics computed. 

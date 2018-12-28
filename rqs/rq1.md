@@ -1,6 +1,6 @@
 # Research Question 1
 
-#### To what extent are specific kinds of user feedback connected with app rating?
+#### How does the presence of particular types of user feedback impact the app rating?
 
 In this research question we want to understand which are the main topics discussed amongst users and investigate the co-occurrence between particular topics discussed in reviews and the rating of the app.
 
