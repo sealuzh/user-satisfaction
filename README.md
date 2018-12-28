@@ -1,10 +1,11 @@
-# Combining App Rating and User Review Analysis to Estimate Code Quality and User Satisfaction
+# Does Software Quality Impact Users' Satisfaction?
+## An Empirical Study on the Android Market
 
 This replication package offers the [raw data][raw] used for all the analysis carried out in the paper, as well the [Python scripts][python] used to compute and plot the results.
 
 We also offer the [data][topic] we used to compute the topic distibution analysis for our RQ2.
 
-For a detailed description of the computed code metrics, please refers to [this link](https://github.com/sealuzh/user_quality/wiki/Code-Quality-Metrics).
+For a detailed description of the computed code metrics, please refers to [this link](https://github.com/sealuzh/user_satisfaction/wiki/Code-Quality-Metrics).
 
 ## Main Contributors
 
