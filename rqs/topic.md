@@ -3,34 +3,34 @@
 Following, we report the graphs that indicate the distribution of the various user metrics (ie., the pairs of _intention_ and _topic_) for all the analyzed categories.
 
 #### Books & References
-![](/assets/distribution/books.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/books.png)
 
 #### Communication
-![](/assets/distribution/communications.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/communications.png)
 
 #### Education
-![](/assets/distribution/education.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/education.png)
 
 #### Finance
-![](/assets/distribution/finance.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/finance.png)
 
 #### Games
-![](/assets/distribution/games.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/games.png)
 
 #### Lifestyle
-![](/assets/distribution/lifestyle.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/lifestyle.png)
 
 #### Music & Audio
-![](/assets/distribution/music.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/music.png)
 
 #### Photography
-![](/assets/distribution/photography.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/photography.png)
 
 #### Productivity
-![](/assets/distribution/productivity.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/productivity.png)
 
 #### Travel & Locals
-![](/assets/distribution/travel.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/travel.png)
 
 #### Video Players & Editor
-![](/assets/distribution/video.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/distribution/video.png)

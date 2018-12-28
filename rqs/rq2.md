@@ -6,11 +6,11 @@ This research question is aimed at studying the extent to which code quality can
 
 Below we report the maps for the overall correlations.
 
-At [this](pd.md) it is possible to observe the same analysis for every category about the Problem Discovery reviews. Similarly, at [this](fr.md) we report the same for the Feature Request reviews.
+At [this](https://github.com/sealuzh/user-satisfaction/blob/master/rqs/pd.md) it is possible to observe the same analysis for every category about the Problem Discovery reviews. Similarly, at [this](https://github.com/sealuzh/user-satisfaction/blob/master/rqs/fr.md) we report the same for the Feature Request reviews.
 
 ### Overall
 #### Problem Discovery
-![](/assets/pd_quality.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/pd_quality.png)
 #### Feature Request
-![](/assets/fr_quality.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/fr_quality.png)
 

@@ -4,36 +4,36 @@ Following, we report the world clouds of the 20 most common _n-grams_ for high a
 We analyzed the categories for which we observed significant correlation between code quality and app ratings in our [RQ1][RQ1].
 
 #### Books & References
-![](/assets/clouds/books.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/books.png)
 
 #### Communication
-![](/assets/clouds/communication.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/communication.png)
 
 #### Education
-![](/assets/clouds/education.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/education.png)
 
 #### Finance
-![](/assets/clouds/finance.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/finance.png)
 
 #### Lifestyle
-![](/assets/clouds/lifestyle.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/lifestyle.png)
 
 #### Games
-![](/assets/clouds/games.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/games.png)
 
 #### Music & Audio
-![](/assets/clouds/music.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/music.png)
 
 #### Photography
-![](/assets/clouds/photography.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/photography.png)
 
 #### Productivity
-![](/assets/clouds/productivity.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/productivity.png)
 
 #### Travel & Local
-![](/assets/clouds/travel.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/travel.png)
 
 #### Video Players & Editor
-![](/assets/clouds/video.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/clouds/video.png)
 
-[RQ1]: rq1.md
+[RQ1]: https://github.com/sealuzh/user-satisfaction/blob/master/rqs/rq1.md

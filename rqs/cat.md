@@ -1,49 +1,49 @@
 ## Heat-Maps for each analyzed Play Store category
 
 ### Books & References
-![](/assets/categories/books.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/books.png)
 
 ## Communications
-![](/assets/categories/communication.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/communication.png)
 
 ## Education
-![](/assets/categories/education.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/education.png)
 
 ## Entertainment
-![](/assets/categories/entertainment.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/entertainment.png)
 
 ### Finance
-![](/assets/categories/finance.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/finance.png)
 
 ### Games
-![](/assets/categories/games.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/games.png)
 
 ### Lifestyle
-![](/assets/categories/lifestyle.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/lifestyle.png)
 
 ### Music & Audio
-![](/assets/categories/music.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/music.png)
 
 ### Personalization
-![](/assets/categories/personalization.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/personalization.png)
 
 ### Photography
-![](/assets/categories/photography.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/photography.png)
 
 ### Productivity
-![](/assets/categories/productivity.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/productivity.png)
 
 ### Social
-![](/assets/categories/social.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/social.png)
 
 ### Tools
-![](/assets/categories/tools.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/tools.png)
 
 ### Travel & Local
-![](/assets/categories/travel.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/travel.png)
 
 ### Video Player & Editor
-![](/assets/categories/video.png)
+![](/https://github.com/sealuzh/user-satisfaction/tree/master/figures/categories/video.png)
 
 
 
