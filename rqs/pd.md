@@ -1,4 +1,4 @@
-## RQ3's heat-maps for Problem Discovery
+## Heat-maps for Problem Discovery
 
 ### Communication
 ![](/assets/PD_Communication.png)

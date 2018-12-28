@@ -18,7 +18,7 @@ To improve our analysis we also analyzed the distribution of the various combina
 
 The following graph reports such data for all the apps available, without any distinction.
 
-[Here](rqs/topic.md) it is possible to see the same analysis repeated for each category.
+[Here](topic.md) it is possible to see the same analysis repeated for each category.
 
 ![](../figures/distribution/all.png)
 
