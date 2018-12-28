@@ -6,11 +6,11 @@ In this research question we want to understand which are the main topics discus
 
 #### Correlation Between Problem Discovery's topics and rating
 
-![](figures/problem_discovery.png)
+![](../figures/problem_discovery.png)
 
 #### Correlation Between Feature Requests' topics and rating
 
-![](figures/feature_requests.png)
+![](../figures/feature_requests.png)
 
 #### Distribution of Feedback
 
@@ -20,6 +20,6 @@ The following graph reports such data for all the apps available, without any di
 
 [Here](rqs/topic.md) it is possible to see the same analysis repeated for each category.
 
-![](figures/distribution/all.png)
+![](../figures/distribution/all.png)
 
 
