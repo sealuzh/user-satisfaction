@@ -1,6 +1,6 @@
 # Research Question 1
 
-#### How does the presence of particular types of user feedback impact the app rating?
+#### To what extent are specific kinds of user feedback connected with app rating?
 
 In this research question we want to understand which are the main topics discussed amongst users and investigate the co-occurrence between particular topics discussed in reviews and the rating of the app.
 
@@ -16,10 +16,9 @@ In this research question we want to understand which are the main topics discus
 
 To improve our analysis we also analyzed the distribution of the various combination of _intention_ and _topic_ occurring in both low and high rated reviews. 
 
-The following graph reports such data for all the apps available, without any distinction.
+In the paper we show a table reporting the distribution, for each app category, of PD, FR, PD+Feature and FR+Feature feedback.
 
-[Here](topic.md) it is possible to see the same analysis repeated for each category.
+[Here](topic.md) it is possible to see the same analysis for all the combination of intention+topic and for each category.
 
-![](../figures/distribution/all.png)
 
 
