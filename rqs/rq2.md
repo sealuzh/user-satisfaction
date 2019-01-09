@@ -4,9 +4,10 @@
 
 This research question is aimed at studying the extent to which code quality can be perceived by users in their comments. Our aim is to establish if an higher frequency of certain kind of feedback in the app store could be connected to factors indicating a lower/higher code quality.
 
-Below we report the maps for the overall correlations.
+As explained in the paper, when consider all the apps together we do not observe any significant correlation, as showed in the heap maps below.
 
-At [this link](cat.md) it is possible to observe the same analysis for every category about the Problem Discovery and Feature Request reviews. 
+However, some results come up when looking separately at the different categories.
+The heat-maps for each separate category can be observed at [this link](cat.md).
 
 ### Overall
 #### Problem Discovery
