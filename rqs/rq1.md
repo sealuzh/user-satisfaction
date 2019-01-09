@@ -6,7 +6,7 @@ In this research question we want to understand which are the main topics discus
 
 #### Correlation Between Problem Discovery's topics and rating
 
-![](../figures/problem_discoveries.png)
+![](../figures/problem_discoveries.pdf)
 
 #### Correlation Between Feature Requests' topics and rating
 
