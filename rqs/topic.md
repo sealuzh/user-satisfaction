@@ -32,5 +32,17 @@ Following, we report the graphs that indicate the distribution of the various us
 #### Travel & Locals
 ![](../figures/distribution/travel.png)
 
+#### Entertainement
+![](../figures/distribution/entertainement.png)
+
 #### Video Players & Editor
 ![](../figures/distribution/video.png)
+
+#### Social
+![](../figures/distribution/social.png)
+
+#### Tools
+![](../figures/distribution/tools.png)
+
+#### Personalization
+![](../figures/distribution/personalization.png)
