@@ -16,7 +16,7 @@ In this research question we want to understand which are the main topics discus
 
 To improve our analysis we also analyzed the distribution of the various combination of _intention_ and _topic_ occurring in both low and high rated reviews. 
 
-In the paper we show a table reporting the distribution, for each app category, of PD, FR, PD+Feature and FR+Feature feedback.
+In the paper we show a table reporting the distribution, for each app category, of PD, and PD+Feature feedback.
 
 [Here](topic.md) it is possible to see the same analysis for all the combination of intention+topic and for each category.
 
