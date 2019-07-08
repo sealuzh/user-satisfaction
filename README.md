@@ -2,7 +2,7 @@
 
 This is the replication package for the paper: 
 
-#### Does Software Quality Impact Users' Satisfaction? An Empirical Study on the Android Market
+#### “Houston, we have a problem”: Investigating the Criticality of User Reported Issues through Their Relations with App Rating.
 
 ### Dataset
 

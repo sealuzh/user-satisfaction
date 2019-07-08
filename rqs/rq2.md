@@ -12,6 +12,6 @@ The heat-maps for each separate category can be observed at [this link](cat.md).
 ### Overall
 #### Problem Discovery
 ![](../figures/pd_quality.png)
-#### Feature Request
-![](../figures/fr_quality.png)
+<!-- #### Feature Request
+![](../figures/fr_quality.png) -->
 

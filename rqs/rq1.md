@@ -8,9 +8,9 @@ In this research question we want to understand which are the main topics discus
 
 ![](../figures/problem_discoveries.png)
 
-#### Correlation Between Feature Requests' topics and rating
+<!-- #### Correlation Between Feature Requests' topics and rating
 
-![](../figures/feature_requests.png)
+![](../figures/feature_requests.png) -->
 
 #### Distribution of Feedback
 
