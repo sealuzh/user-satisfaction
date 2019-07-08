@@ -1,6 +1,6 @@
 # Research Question 2
 
-#### To what extend might code quality influence (or be influenced by) user experience?
+#### Are there code quality indicators correlated with the rising of critical issues?
 
 This research question is aimed at studying the extent to which code quality can be perceived by users in their comments. Our aim is to establish if an higher frequency of certain kind of feedback in the app store could be connected to factors indicating a lower/higher code quality.
 
