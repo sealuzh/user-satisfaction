@@ -2,7 +2,7 @@
 
 This is the replication package for the paper: 
 
-#### “Houston, we have a problem”: Investigating the Criticality of User Reported Issues through Their Relations with App Rating.
+#### Investigating the Criticality of User Reported Issues through Their Relations with App Rating.
 
 ### Dataset
 
