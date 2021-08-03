@@ -11,10 +11,10 @@ We make available all the data we used to carry out our study. In particular, we
 The list of the available CSV files is the following:
 
 * A [file][versions] reporting the **list of the analyzed apps**; every app has the indication of the version, the release date, as well an unique ID; 
-* A [file][reviews] reporting the **set of the reviews** mined. In this CSV file we provide the following fields. In particular, the lattest refer to the unique ID of the apk showed in the CSV above;
-* A [file][sentences] reporting all the **sentences** extracted from the set of mined reviews. For each sentences we report the unique ID of the corresponding review, the text of the sencence, the intention and the topic that it refers to;
-* A [file][user-metrics] with the list of the computed **user metrics**. We reported in this file the ID version of all the apks along with the extracted metrics. It is worth to notice that the CSV reports also the absolute values for each intention and topic; however, four our analysis, we relied only on the relative values;
-* A [file][code-metrics] for the computed **code metrics**. Again, we report the each apk its unique ID together with the extracted factors.
+* A [file][reviews] reporting the **set of the reviews** mined. In this CSV file we provide the following fields: a unique review ID, the package name, the review text, the date in which the review has been submitted, the star rating, and the version id. In particular, the lattest refer to the unique ID of the apk reported in the CSV above;
+* A [file][sentences] reporting all the **sentences** extracted from the set of mined reviews. For each sentence, we report the unique ID of the corresponding review, the text of the sentence, the intention, and the topic it refers to;
+* A [file][user-metrics] with the list of the computed **user metrics**. We reported in this file the ID version of all the apks along with the extracted metrics. It is worth to notice that the CSV reports also the absolute values for each intention and topic; however, for our analysis, we relied only on the relative values;
+* A [file][code-metrics] for the computed **code metrics**. Again, we report for each apk its unique ID along with the extracted factors.
 
 ### Heat-maps
 
